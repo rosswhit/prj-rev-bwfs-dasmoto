@@ -1,0 +1,41 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+ 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#springgreen {
+  background-color: mediumspringgreen;
+}
+
+#lightcoral {
+	background-color: lightcoral; 
+}
+
+#skyblue {
+	background-color: skyblue;
+}
+
+p {
+	font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
